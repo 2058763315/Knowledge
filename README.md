@@ -10,6 +10,7 @@
 | [c基础.md](./c基础.md) | 25 KB | C 语言**基础与面试题**：数据类型、volatile、指针（函数指针 / 数组指针 / 指针数组等）、const、浮点数存储；链表、常见排序算法（选择/插入/希尔/冒泡/快速）、hash 算法（构造、冲突解决、常用函数） |
 | [Linux和数据库.md](./Linux和数据库.md) | 263 KB | Linux 系统命令教程 + 数据库：发行版、目录/文件命令、管道与重定向、文本处理（cat/grep/sed/awk 等）、vim、权限与用户管理、makefile、shell 脚本；Linux 文件/目录 I/O 接口（open/read/lseek/opendir 等）；SQL 语句与数据类型、MySQL C API 开发、数据库连接池 |
 | [linux.md](./linux.md) | 46 KB | Linux 系统使用与开发：关键命令（关机、查看文本、mount、dmesg、grep、find、lsusb、lsof）；进程间通讯、内存申请、gcc 编译过程、文件系统、进程状态、系统调用、fork、僵尸进程、/proc 目录等软件开发知识点；驱动开发、makefile、shell 相关 |
+| [Qt.md](./Qt.md) | 142 KB | Qt 图形界面开发教程：Qt Creator 与项目结构、常用控件、信号与槽、事件处理与事件过滤器、Qt 容器类（QString / QByteArray / QStringList）、QMainWindow、QFile 文件操作、绘图（QPen / QBrush）、QGraphicsView 图形视图框架、SQLite 数据库、程序发布 |
 | [嵌入式Linux驱动知识点.md](./嵌入式Linux驱动知识点.md) | 96 KB | 内核驱动**源码级**知识点（面试主打文档）：整体分层、内核模块、bus/device/driver 设备模型、设备树、platform 总线、字符设备、并发与竞态、中断、用户态接口，以及 Input / SPI / I2C / PWM 子系统、配套机制（GPIO/pinctrl/regmap/DMA）、驱动调试、交叉编译、面试高频问答，共 17 章 |
 | [tcpip协议栈.md](./tcpip协议栈.md) | 31 KB | TCP/IP 网络：分层模型（OSI 与 Linux 模型对照）、以太网协议、ARP 地址解析、TCP 协议等 |
 | [shell.md](./shell.md) | 11 KB | Shell 脚本：shell 种类、基本语法（变量、if/else、条件测试）、常用命令 |
@@ -26,7 +27,8 @@
 3. **网络协议**：`tcpip协议栈.md`
 4. **系统启动**：`uboot.md`
 5. **核心面试文档**：`嵌入式Linux驱动知识点.md`（含设备树、platform 总线、各子系统，可与简历"专业技能 6"对应）
-6. **版本管理**：`git.md`
+6. **上位机界面**：`Qt.md`（Qt 控件、信号与槽、事件处理、绘图、图形视图、SQLite，与下位机驱动配套的上位机开发）
+7. **版本管理**：`git.md`
 
 ## 说明
 
